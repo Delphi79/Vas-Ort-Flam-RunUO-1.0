@@ -1,0 +1,3 @@
+Welcome
+
+Basically, the working things at the moment are OnSite Duels which can be accessed with the command [onsiteduel and the deathmatch system which should be running at the moment.  To access the deathmatch system say "i wish to join the deathmatch", you can leave with "i wish to leave the deathmatch" and you can check your current score with "scoreboard".  This is a test center server so you can set your stats at any time but i do ask that you play fair and be nice.  Thats it have fun.

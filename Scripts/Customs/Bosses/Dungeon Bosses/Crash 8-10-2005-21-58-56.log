@@ -1,0 +1,38 @@
+Server Crash Report
+===================
+
+RunUO Version 1.0.0, Build 36918
+Operating System: Microsoft Windows NT 5.1.2600.0
+.NET Framework: 1.1.4322.2032
+Time: 08/10/2005 21:58:56
+Mobiles: 12840
+Items: 254502
+Clients:
+- Count: 17
++ 80.4.43.183: (account = slithstaff) (mobile = 0x1565 'Lead Admin Wraith')
++ 4.244.171.226: (account = thebigraul) (mobile = 0x31AC 'buttons')
++ 68.227.206.194: (account = Test0009) (mobile = 0x3B4 'Marcus')
++ 68.227.206.194: (account = Test0004) (mobile = 0x6C3 'Stratocaster')
++ 80.4.43.183: (account = Tommy0611) (mobile = 0x27 'Dead Man Walking')
++ 86.134.79.47: (account = myst123) (mobile = 0x32 'Admin Myst')
++ 86.134.79.47: (account = Rampant) (mobile = 0x1CA2 'Gootchie')
++ 86.134.79.47: (account = puzz123) (mobile = 0xED 'Photep')
++ 24.29.73.178: (account = plagstaff) (mobile = 0x1EA 'Counselor Ireyda')
++ 4.244.171.226: (account = bert) (mobile = 0x58 'Mr Sniffles')
++ 24.29.73.178: (account = zerk) (mobile = 0x1458 'Sticky Fingaz')
++ 68.227.206.194: (account = test0006) (mobile = 0x2F87 'That one Dood')
++ 86.7.3.220: (account = craggle) (mobile = 0x6D3 'Slave Being')
++ 69.70.206.175: (account = cixxtynine) (mobile = 0x146B 'i.r.leet')
++ 81.47.165.133: (account = josi) (mobile = 0x103D 'Rya')
++ 69.231.117.43: (account = kimpylump) (mobile = 0x41 'lumps')
++ 69.231.117.43: (account = kimpylump)
+
+Exception:
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Server.SkillHandlers.StealingTarget.TryStealItem(Item toSteal, Boolean& caught)
+   at Server.SkillHandlers.StealingTarget.OnTarget(Mobile from, Object target)
+   at Server.Targeting.Target.Invoke(Mobile from, Object targeted)
+   at Server.Network.PacketHandlers.TargetResponse(NetState state, PacketReader pvSrc)
+   at Server.Network.MessagePump.HandleReceive(NetState ns)
+   at Server.Network.MessagePump.Slice()
+   at Server.Core.Main(String[] args)

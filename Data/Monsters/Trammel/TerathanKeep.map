@@ -1,0 +1,161 @@
+overrideid 210
+overridemap 2
+overridemintime 5
+overridemaxtime 10
+## By Nerun
+##
+## Lost Lands
+## Terathan Keep Dungeon
+##
+##
+## Terathan Keep
+##
+* Balron 5296 1561 0 2 5 15 20 10 1 1
+* Dragon 5297 1561 0 2 5 15 20 10 1 1
+* Drake 5298 1561 0 2 5 15 20 10 1 1
+* Nightmare 5299 1561 0 2 5 15 20 10 1 1
+* Ophidianarchmage 5296 1562 0 2 5 15 20 10 1 1
+* Ophidianknight 5297 1562 0 2 5 15 20 10 1 1
+* Ophidianmage 5298 1562 0 2 5 15 20 10 1 1
+* Ophidianwarrior 5299 1562 0 2 5 15 20 10 1 1
+* Ophidianmatriarch 5296 1565 0 2 5 15 20 10 1 1
+* Terathanavenger 5297 1565 0 2 5 15 20 10 1 1
+* Terathandrone 5298 1565 0 2 5 15 20 10 1 1
+* Terathanmatriarch 5299 1565 0 2 5 15 20 10 1 1
+* Terathanwarrior 5295 1561 0 2 5 15 20 10 1 1
+##
+* Balron 5342 1553 0 2 5 15 20 10 1 1
+* Dragon 5343 1553 0 2 5 15 20 10 1 1
+* Drake 5344 1553 0 2 5 15 20 10 1 1
+* Nightmare 5345 1553 0 2 5 15 20 10 1 1
+* Ophidianarchmage 5342 1552 0 2 5 15 20 10 1 1
+* Ophidianknight 5343 1552 0 2 5 15 20 10 1 1
+* Ophidianmage 5344 1552 0 2 5 15 20 10 1 1
+* Ophidianwarrior 5345 1552 0 2 5 15 20 10 1 1
+* Ophidianmatriarch 5342 1551 0 2 5 15 20 10 1 1
+* Terathanavenger 5343 1551 0 2 5 15 20 10 1 1
+* Terathandrone 5344 1551 0 2 5 15 20 10 1 1
+* Terathanmatriarch 5345 1551 0 2 5 15 20 10 1 1
+* Terathanwarrior 5343 1554 0 2 5 15 20 10 1 1
+##
+* Balron 5334 1613 0 2 5 15 20 10 1 1
+* Dragon 5335 1613 0 2 5 15 20 10 1 1
+* Drake 5336 1613 0 2 5 15 20 10 1 1
+* Nightmare 5337 1613 0 2 5 15 20 10 1 1
+* Ophidianarchmage 5334 1614 0 2 5 15 20 10 1 1
+* Ophidianknight 5335 1614 0 2 5 15 20 10 1 1
+* Ophidianmage 5336 1614 0 2 5 15 20 10 1 1
+* Ophidianwarrior 5337 1614 0 2 5 15 20 10 1 1
+* Ophidianmatriarch 5334 1615 0 2 5 15 20 10 1 1
+* Terathanavenger 5335 1615 0 2 5 15 20 10 1 1
+* Terathandrone 5336 1615 0 2 5 15 20 10 1 1
+* Terathanmatriarch 5337 1615 0 2 5 15 20 10 1 1
+* Terathanwarrior 5333 1613 0 2 5 15 20 10 1 1
+##
+* TreasureChestLevel3 5348 1552 0 2 1 2 1 1 1 1
+* TreasureChestLevel4 5345 1551 0 2 1 2 1 1 1 2
+##
+## Ophidian Territory
+##
+* Balron 5344 1757 -125 2 5 15 20 10 1 1
+* Dragon 5344 1756 -125 2 5 15 20 10 1 1
+* Drake 5344 1755 -125 2 5 15 20 10 1 1
+* Nightmare 5344 1754 -125 2 5 15 20 10 1 1
+* Ophidianarchmage 5345 1757 -125 2 5 15 20 10 1 1
+* Ophidianknight 5345 1756 -125 2 5 15 20 10 1 1
+* Ophidianmage 5345 1755 -125 2 5 15 20 10 1 1
+* Ophidianwarrior 5345 1754 -125 2 5 15 20 10 1 1
+* Ophidianmatriarch 5346 1757 -125 2 5 15 20 10 1 1
+* Terathanavenger 5346 1756 -125 2 5 15 20 10 1 1
+* Terathandrone 5346 1755 -125 2 5 15 20 10 1 1
+* Terathanmatriarch 5346 1754 -125 2 5 15 20 10 1 1
+* Terathanwarrior 5347 1757 -125 2 5 15 20 10 1 1
+##
+* Balron 5335 1706 -70 2 5 15 20 10 1 1
+* Dragon 5336 1706 -72 2 5 15 20 10 1 1
+* Drake 5337 1706 -75 2 5 15 20 10 1 1
+* Nightmare 5338 1706 -69 2 5 15 20 10 1 1
+* Ophidianarchmage 5335 1707 -70 2 5 15 20 10 1 1
+* Ophidianknight 5336 1707 -69 2 5 15 20 10 1 1
+* Ophidianmage 5337 1707 -70 2 5 15 20 10 1 1
+* Ophidianwarrior 5338 1707 -70 2 5 15 20 10 1 1
+* Ophidianmatriarch 5335 1708 -70 2 5 15 20 10 1 1
+* Terathanavenger 5336 1708 -70 2 5 15 20 10 1 1
+* Terathandrone 5337 1708 -73 2 5 15 20 10 1 1
+* Terathanmatriarch 5338 1708 -73 2 5 15 20 10 1 1
+* Terathanwarrior 5334 1707 -73 2 5 15 20 10 1 1
+##
+* Balron 5270 1695 0 2 5 15 20 10 1 1
+* Dragon 5271 1695 0 2 5 15 20 10 1 1
+* Drake 5272 1695 0 2 5 15 20 10 1 1
+* Nightmare 5273 1695 0 2 5 15 20 10 1 1
+* Ophidianarchmage 5270 1694 0 2 5 15 20 10 1 1
+* Ophidianknight 5271 1694 0 2 5 15 20 10 1 1
+* Ophidianmage 5272 1694 0 2 5 15 20 10 1 1
+* Ophidianwarrior 5273 1694 0 2 5 15 20 10 1 1
+* Ophidianmatriarch 5270 1693 0 2 5 15 20 10 1 1
+* Terathanavenger 5271 1693 0 2 5 15 20 10 1 1
+* Terathandrone 5272 1693 0 2 5 15 20 10 1 1
+* Terathanmatriarch 5273 1693 0 2 5 15 20 10 1 1
+* Terathanwarrior 5270 1692 0 2 5 15 20 10 1 1
+##
+* TreasureChestLevel3 5365 1707 -71 2 1 2 1 1 1 1
+* TreasureChestLevel4 5363 1709 -75 2 1 2 1 1 1 2
+##
+* Balron 5176 1702 0 2 5 15 20 10 1 1
+* Dragon 5177 1702 2 2 5 15 20 10 1 1
+* Drake 5178 1702 -2 2 5 15 20 10 1 1
+* Nightmare 5179 1702 -2 2 5 15 20 10 1 1
+* Ophidianarchmage 5176 1701 2 2 5 15 20 10 1 1
+* Ophidianknight 5177 1701 0 2 5 15 20 10 1 1
+* Ophidianmage 5178 1701 -2 2 5 15 20 10 1 1
+* Ophidianwarrior 5179 1701 -3 2 5 15 20 10 1 1
+* Ophidianmatriarch 5176 1700 1 2 5 15 20 10 1 1
+* Terathanavenger 5177 1700 1 2 5 15 20 10 1 1
+* Terathandrone 5178 1700 1 2 5 15 20 10 1 1
+* Terathanmatriarch 5179 1700 -1 2 5 15 20 10 1 1
+* Terathanwarrior 5175 1702 -2 2 5 15 20 10 1 1
+##
+## Champion Room
+##
+* Balron 5132 1624 0 2 5 15 20 10 1 1
+* Dragon 5133 1624 0 2 5 15 20 10 1 1
+* Drake 5134 1624 0 2 5 15 20 10 1 1
+* Nightmare 5135 1624 0 2 5 15 20 10 1 1
+* Ophidianarchmage 5132 1623 0 2 5 15 20 10 1 1
+* Ophidianknight 5133 1623 0 2 5 15 20 10 1 1
+* Ophidianmage 5134 1623 0 2 5 15 20 10 1 1
+* Ophidianwarrior 5135 1623 0 2 5 15 20 10 1 1
+* Ophidianmatriarch 5133 1625 0 2 5 15 20 10 1 1
+* Terathanavenger 5134 1625 0 2 5 15 20 10 1 1
+* Terathandrone 5135 1625 0 2 5 15 20 10 1 1
+* Terathanmatriarch 5135 1626 0 2 5 15 20 10 1 1
+* Terathanwarrior 5135 1622 0 2 5 15 20 10 1 1
+##
+* Balron 5160 1586 -15 2 5 15 20 10 1 1
+* Dragon 5161 1586 -15 2 5 15 20 10 1 1
+* Drake 5162 1586 -15 2 5 15 20 10 1 1
+* Nightmare 5163 1586 -15 2 5 15 20 10 1 1
+* Ophidianarchmage 5163 1585 -15 2 5 15 20 10 1 1
+* Ophidianknight 5162 1585 -15 2 5 15 20 10 1 1
+* Ophidianmage 5161 1585 -15 2 5 15 20 10 1 1
+* Ophidianwarrior 5160 1585 -15 2 5 15 20 10 1 1
+* Ophidianmatriarch 5160 1584 -15 2 5 15 20 10 1 1
+* Terathanavenger 5161 1584 -15 2 5 15 20 10 1 1
+* Terathandrone 5162 1584 -15 2 5 15 20 10 1 1
+* Terathanmatriarch 5163 1584 -15 2 5 15 20 10 1 1
+* Terathanwarrior 5160 1583 -15 2 5 15 20 10 1 1
+##
+* Balron 5200 1565 0 2 5 15 20 10 1 1
+* Dragon 5201 1565 0 2 5 15 20 10 1 1
+* Drake 5202 1565 0 2 5 15 20 10 1 1
+* Nightmare 5200 1566 0 2 5 15 20 10 1 1
+* Ophidianarchmage 5201 1566 0 2 5 15 20 10 1 1
+* Ophidianknight 5202 1566 0 2 5 15 20 10 1 1
+* Ophidianmage 5200 1567 0 2 5 15 20 10 1 1
+* Ophidianwarrior 5201 1567 0 2 5 15 20 10 1 1
+* Ophidianmatriarch 5202 1567 0 2 5 15 20 10 1 1
+* Terathanavenger 5200 1568 0 2 5 15 20 10 1 1
+* Terathandrone 5201 1568 0 2 5 15 20 10 1 1
+* Terathanmatriarch 5202 1568 0 2 5 15 20 10 1 1
+* Terathanwarrior 5199 1568 0 2 5 15 20 10 1 1

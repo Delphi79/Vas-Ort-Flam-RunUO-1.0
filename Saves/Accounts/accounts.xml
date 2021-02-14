@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<accounts count="6">
+	<account>
+		<username>slithstaff</username>
+		<cryptPassword>82-7C-CB-0E-EA-8A-70-6C-4C-34-A1-68-91-F8-4E-7B</cryptPassword>
+		<flags>2</flags>
+		<created>2005-10-04T16:02:16.6093750-07:00</created>
+		<lastLogin>2005-10-04T16:02:35.3750000-07:00</lastLogin>
+		<totalGameTime>PT2M13.0625S</totalGameTime>
+		<chars>
+			<char index="0">5</char>
+		</chars>
+		<tags>
+			<tag name="motd">false</tag>
+		</tags>
+		<addressList count="1">
+			<ip>80.4.43.183</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>stustaff</username>
+		<cryptPassword>68-76-BC-BF-2F-74-F7-73-F0-E3-8A-A2-75-40-47-D5</cryptPassword>
+		<accessLevel>Administrator</accessLevel>
+		<flags>2</flags>
+		<created>2005-10-03T14:42:34.2656250-07:00</created>
+		<lastLogin>2005-10-10T11:23:01.4218750-07:00</lastLogin>
+		<totalGameTime>PT6H4M59.78125S</totalGameTime>
+		<chars>
+			<char index="0">1</char>
+		</chars>
+		<tags>
+			<tag name="motd">false</tag>
+		</tags>
+		<addressList count="2">
+			<ip>63.199.198.218</ip>
+			<ip>192.168.1.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>vykvanhelsen</username>
+		<cryptPassword>91-51-C3-37-13-A8-0F-86-DC-7B-D5-B1-EE-3E-04-7E</cryptPassword>
+		<flags>2</flags>
+		<created>2005-10-03T23:04:16.6089088-07:00</created>
+		<lastLogin>2005-10-03T23:07:39.0932838-07:00</lastLogin>
+		<totalGameTime>PT6M9.140625S</totalGameTime>
+		<chars>
+			<char index="0">2</char>
+		</chars>
+		<tags>
+			<tag name="motd">false</tag>
+		</tags>
+		<addressList count="1">
+			<ip>66.189.67.233</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>stustaff1</username>
+		<cryptPassword>68-76-BC-BF-2F-74-F7-73-F0-E3-8A-A2-75-40-47-D5</cryptPassword>
+		<flags>2</flags>
+		<created>2005-10-04T12:49:46.1708750-07:00</created>
+		<lastLogin>2005-10-10T11:50:47.7187500-07:00</lastLogin>
+		<totalGameTime>PT4H48M56.515625S</totalGameTime>
+		<chars>
+			<char index="0">3</char>
+		</chars>
+		<tags>
+			<tag name="motd">false</tag>
+		</tags>
+		<addressList count="2">
+			<ip>63.199.198.218</ip>
+			<ip>192.168.1.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>stustaff11</username>
+		<cryptPassword>68-76-BC-BF-2F-74-F7-73-F0-E3-8A-A2-75-40-47-D5</cryptPassword>
+		<flags>2</flags>
+		<created>2005-10-04T13:56:07.8593750-07:00</created>
+		<lastLogin>2005-10-04T14:27:27.4218750-07:00</lastLogin>
+		<totalGameTime>PT29M46.609375S</totalGameTime>
+		<chars>
+			<char index="0">4</char>
+		</chars>
+		<tags>
+			<tag name="motd">false</tag>
+		</tags>
+		<addressList count="1">
+			<ip>192.168.1.1</ip>
+		</addressList>
+	</account>
+	<account>
+		<username>lordlj2</username>
+		<cryptPassword>83-A1-A1-C1-DA-46-C0-0A-08-61-8D-06-3A-6A-BF-11</cryptPassword>
+		<flags>2</flags>
+		<created>2005-10-06T08:47:53.9373750-07:00</created>
+		<lastLogin>2005-10-06T08:47:53.9373750-07:00</lastLogin>
+		<totalGameTime>PT0S</totalGameTime>
+		<chars />
+		<addressList count="1">
+			<ip>68.228.134.18</ip>
+		</addressList>
+	</account>
+</accounts>
